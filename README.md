@@ -1,2 +1,2 @@
 # Web-profil-mahasiswa
-sedemikian
+Hanya sebuah tampilan index dan css
